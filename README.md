@@ -1,0 +1,1 @@
+# jasmine-node [![Build Status](https://travis-ci.org/robertolima-dev/node-jasmine.svg?branch=master)](https://travis-ci.org/robertolima-dev/node-jasmine)
